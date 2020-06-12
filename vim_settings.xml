@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.www.augmented-anatomy.com/.env" timestamp="1591708688119">
         <mark key="[" line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env.example" timestamp="1591971264823">
+        <mark key="[" line="13" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/augmented-anatomy.com/database/migrations/2020_02_25_150833_create_spark_subscriptions_table.php" timestamp="1591709705495">
         <mark key="[" line="38" column="10" />
       </file>
@@ -83,6 +86,7 @@
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/assets/js/vue-bootstrap.js" timestamp="1591634000587">
         <mark key="[" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.gitignore" timestamp="1591970780833" />
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/app.augmented-anatomy.com/.env" timestamp="1591708624883">
         <mark key="[" line="12" column="16" />
       </file>
@@ -93,15 +97,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/package.json" timestamp="1591633807588">
-        <mark key="[" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Console/Kernel.php" timestamp="1591621489451">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="67" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/www.augmented-anatomy.com/.env" timestamp="1591708550882">
         <mark key="[" line="13" column="38" />
