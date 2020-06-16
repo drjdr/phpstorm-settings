@@ -28,18 +28,23 @@
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.www.augmented-anatomy.com/.env" timestamp="1591708688119">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/webpack.mix.js" timestamp="1592302229135">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="48" column="9" />
-        <mark key="." line="48" column="9" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/MriRequestFormController.php" timestamp="1592306135599">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/webpack.mix.js" timestamp="1592303938049">
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.app.augmented-anatomy.com/.env" timestamp="1591709171517">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1592302059302">
-        <mark key="[" line="54" column="42" />
-        <mark key="]" line="54" column="42" />
-        <mark key="." line="54" column="42" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1592307024784">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/app.augmented-anatomy.com/.env" timestamp="1591708624883">
         <mark key="[" line="12" column="16" />
@@ -53,8 +58,10 @@
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Requests/Api/UpdateClientVideoRequest.php" timestamp="1591727322693">
         <mark key="[" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/layouts/app.blade.php" timestamp="1592301608089">
-        <mark key="[" line="64" column="52" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/layouts/app.blade.php" timestamp="1592305953325">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1591971941798">
         <mark key="[" line="31" column="48" />
@@ -76,19 +83,13 @@
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env" timestamp="1592301575953">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/serve-it/app/Console/Commands/SetupServer.php" timestamp="1591702697700">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="69" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/www.augmented-anatomy.com/Envoy.blade.php" timestamp="1591710284338">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="11" column="38" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/package.json" timestamp="1592301929971">
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/package.json" timestamp="1592303497370">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -106,14 +107,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-        plugins: [
-            new LiveReloadPlugin()
-        ]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGQgICAgICA8bGluayBocmVmPSJ7eyBtaXgoJy9jc3MvYXBwLmNzcycpIH19IiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">U3Bhcms6OnVzZXNSaWdodFRvTGVmdFRoZW1lKCkgPyAnY3NzL2FwcC1ydGwuY3NzJyA6IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
@@ -121,39 +119,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Zm9yZ2UgPSBuZXcgXFRoZW1zYWlkXEZvcmdlXEZvcmdlKGVudigiRk9SR0VfVE9LRU4iKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-        plugins: [
-            new LiveReloadPlugin()
-        ]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGQgICAgICA8bGluayBocmVmPSJ7eyBtaXgoJy9jc3MvYXBwLmNzcycpIH19IiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrLWxpdmVyZWxvYWQtcGx1Z2luIjogIl4xLjIuMCIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LT4KICAgICAgICAgICAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c2V0T3B0aW9uKCdlbmFibGUtamF2YXNjcmlwdCcsIHRydWUpCiAgICAgICAgICAgIC0+c2V0T3B0aW9uKCdqYXZhc2NyaXB0LWRlbGF5JywgMTAwMDApCiAgICAgICAgICAgIC0+c2V0T3B0aW9uKCdlbmFibGUtc21hcnQtc2hyaW5raW5nJywgdHJ1ZSkKICAgICAgICAgICAgLT5zZXRPcHRpb24oJ25vLXN0b3Atc2xvdy1zY3JpcHRzJywgdHJ1ZSk=</text>
       </register>
       <register name="4" type="2">
-        <text>mix.webpackConfig({
-    plugins: [
-        new LiveReloadPlugin()
-    ]
-});</text>
+        <text encoding="base64">ICAgICAgICAkcGRmLT5kb3dubG9hZCgnbXJpUmVxdWVzdEZvcm0ucGRmJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdj4KICAgICAgICAgICAgTVJJIEFwcG9pbnRtZW50IERhdGUgJiBUaW1lOiBfZndlX3dlZnd3d2ZfX19fd2Vmd2ZkX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICBNUkkgQXBwb2ludG1lbnQ6CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQGlmKGNvbmZpZygnYXBwLmVudicpID09ICdsb2NhbCcpCiAgICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cDovL2xvY2FsaG9zdDozNTcyOS9saXZlcmVsb2FkLmpzIj48L3NjcmlwdD4KICAgICAgQGVuZGlm</text>
+      <register name="7" type="4">
+        <text encoding="base64">PHVsIGNsYXNzPSJwbC00Ij4KICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPlBhdGllbnQncyBuYW1lOjwvc3Bhbj4gQmVub2l0IEhlbmRyaWNreCA8YnIgLz4KICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+RGF0ZSBvZiBCaXJ0aDo8L3NwYW4+IDA1LzA3LzE5NzkKICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+UGhvbmU6PC9zcGFuPiArMzI0NzUgMTIzMTIzCiAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgIDwvdWw+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWl4LmJyb3dzZXJTeW5jKCdhcHAuYXVnbWVudGVkLWFuYXRvbXkuY29tLnRlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkLWNvbHMtMiI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
