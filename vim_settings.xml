@@ -25,11 +25,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1591971941798">
-        <mark key="[" line="31" column="48" />
-      </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.www.augmented-anatomy.com/.env" timestamp="1591708688119">
         <mark key="[" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/webpack.mix.js" timestamp="1592302229135">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="48" column="9" />
+        <mark key="." line="48" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.app.augmented-anatomy.com/.env" timestamp="1591709171517">
+        <mark key="[" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1592302059302">
+        <mark key="[" line="54" column="42" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/app.augmented-anatomy.com/.env" timestamp="1591708624883">
+        <mark key="[" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/augmented-anatomy.com/composer.json" timestamp="1591709578707">
+        <mark key="[" line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/www.augmented-anatomy.com/.env" timestamp="1591708550882">
+        <mark key="[" line="13" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Requests/Api/UpdateClientVideoRequest.php" timestamp="1591727322693">
+        <mark key="[" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/layouts/app.blade.php" timestamp="1592301608089">
+        <mark key="[" line="64" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1591971941798">
+        <mark key="[" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env.example" timestamp="1591971264823">
         <mark key="[" line="13" column="11" />
@@ -37,34 +65,16 @@
       <file name="$USER_HOME$/Code/augmented-anatomy.com/database/migrations/2020_02_25_150833_create_spark_subscriptions_table.php" timestamp="1591709705495">
         <mark key="[" line="38" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/serve-it/app/Models/Server.php" timestamp="1591655062927">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Services/Api/Transformers/ClientTransformer.php" timestamp="1591727444819">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/app.augmented-anatomy.com/Envoy.blade.php" timestamp="1591701751985">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/migrations/2020_04_04_191759_create_spark_subscriptions_table.php" timestamp="1591710887795">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="43" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/serve-it/app/Models/Site.php" timestamp="1591655268872">
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-      </file>
       <file name="/" timestamp="1591715953945">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env" timestamp="1592301575953">
+        <mark key="[" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Code/serve-it/app/Console/Commands/SetupServer.php" timestamp="1591702697700">
         <mark key="[" line="22" column="0" />
@@ -72,37 +82,16 @@
         <mark key="^" line="52" column="8" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/serve-it/.env" timestamp="1591654787948">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/www.augmented-anatomy.com/Envoy.blade.php" timestamp="1591710284338">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="11" column="38" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.app.augmented-anatomy.com/.env" timestamp="1591709171517">
-        <mark key="[" line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.gitignore" timestamp="1591972066648" />
-      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/app.augmented-anatomy.com/.env" timestamp="1591708624883">
-        <mark key="[" line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/augmented-anatomy.com/composer.json" timestamp="1591709578707">
-        <mark key="[" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/serve-it/app/Console/Commands/CopyEnv.php" timestamp="1591655051274">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/www.augmented-anatomy.com/.env" timestamp="1591708550882">
-        <mark key="[" line="13" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Requests/Api/UpdateClientVideoRequest.php" timestamp="1591727322693">
-        <mark key="[" line="16" column="38" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/package.json" timestamp="1592301929971">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -117,11 +106,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,
+        plugins: [
+            new LiveReloadPlugin()
+        ]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
@@ -129,40 +121,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Zm9yZ2UgPSBuZXcgXFRoZW1zYWlkXEZvcmdlXEZvcmdlKGVudigiRk9SR0VfVE9LRU4iKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,
+        plugins: [
+            new LiveReloadPlugin()
+        ]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWxpdmVyZWxvYWQtcGx1Z2luIjogIl4xLjIuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZChlbnYoJ0ZPUkdFX0RFRkFVTFRfU0VSVkVSX0lEJykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygiQ3JlYXRpbmcgU2l0ZSAiIC4gJGRvbWFpbik7Cg==</text>
+        <text>mix.webpackConfig({
+    plugins: [
+        new LiveReloadPlugin()
+    ]
+});</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-     * The name and signature of the console command.
-     *
-     * @var string
-     */</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQGlmKGNvbmZpZygnYXBwLmVudicpID09ICdsb2NhbCcpCiAgICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cDovL2xvY2FsaG9zdDozNTcyOS9saXZlcmVsb2FkLmpzIj48L3NjcmlwdD4KICAgICAgQGVuZGlm</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-     * The console command description.
-     *
-     * @var string
-     */</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bWl4LmJyb3dzZXJTeW5jKCdhcHAuYXVnbWVudGVkLWFuYXRvbXkuY29tLnRlc3QnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
