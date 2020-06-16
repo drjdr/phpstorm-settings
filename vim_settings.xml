@@ -28,10 +28,10 @@
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.www.augmented-anatomy.com/.env" timestamp="1591708688119">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/MriRequestFormController.php" timestamp="1592306135599">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/MriRequestFormController.php" timestamp="1592310733028">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/webpack.mix.js" timestamp="1592303938049">
         <mark key="[" line="54" column="25" />
@@ -41,19 +41,17 @@
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/dev.app.augmented-anatomy.com/.env" timestamp="1591709171517">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1592307024784">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1592313731506">
+        <mark key="[" line="99" column="33" />
+        <mark key="]" line="98" column="33" />
+        <mark key="." line="98" column="32" />
+        <mark key="^" line="98" column="33" />
       </file>
       <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/app.augmented-anatomy.com/.env" timestamp="1591708624883">
         <mark key="[" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Code/augmented-anatomy.com/composer.json" timestamp="1591709578707">
         <mark key="[" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/serve-it/Infrastructure/Sites/www.augmented-anatomy.com/.env" timestamp="1591708550882">
-        <mark key="[" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Requests/Api/UpdateClientVideoRequest.php" timestamp="1591727322693">
         <mark key="[" line="16" column="38" />
@@ -63,14 +61,21 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1591971941798">
-        <mark key="[" line="31" column="48" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1592310462638">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env.example" timestamp="1591971264823">
         <mark key="[" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Code/augmented-anatomy.com/database/migrations/2020_02_25_150833_create_spark_subscriptions_table.php" timestamp="1591709705495">
         <mark key="[" line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/config/app.php" timestamp="1592310587360">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/migrations/2020_04_04_191759_create_spark_subscriptions_table.php" timestamp="1591710887795">
         <mark key="[" line="71" column="0" />
@@ -90,9 +95,9 @@
         <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/package.json" timestamp="1592303497370">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -108,43 +113,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQgICAgICA8bGluayBocmVmPSJ7eyBtaXgoJy9jc3MvYXBwLmNzcycpIH19IiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3Bhcms6OnVzZXNSaWdodFRvTGVmdFRoZW1lKCkgPyAnY3NzL2FwcC1ydGwuY3NzJyA6IA==</text>
+        <text>relative justify align-content-center justify-center</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Zm9yZ2UgPSBuZXcgXFRoZW1zYWlkXEZvcmdlXEZvcmdlKGVudigiRk9SR0VfVE9LRU4iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQgICAgICA8bGluayBocmVmPSJ7eyBtaXgoJy9jc3MvYXBwLmNzcycpIH19IiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LT4KICAgICAgICAgICAg</text>
+        <text encoding="base64">PC9kaXY+CiAgICAgICAgPGRpdj4=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2V0T3B0aW9uKCdlbmFibGUtamF2YXNjcmlwdCcsIHRydWUpCiAgICAgICAgICAgIC0+c2V0T3B0aW9uKCdqYXZhc2NyaXB0LWRlbGF5JywgMTAwMDApCiAgICAgICAgICAgIC0+c2V0T3B0aW9uKCdlbmFibGUtc21hcnQtc2hyaW5raW5nJywgdHJ1ZSkKICAgICAgICAgICAgLT5zZXRPcHRpb24oJ25vLXN0b3Atc2xvdy1zY3JpcHRzJywgdHJ1ZSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVmZXJyaW5nIFBoeXNpY2lhbjogX19fX19fX19fc2RmZnNfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGRmLT5kb3dubG9hZCgnbXJpUmVxdWVzdEZvcm0ucGRmJyk7Cg==</text>
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdj4KICAgICAgICAgICAgTVJJIEFwcG9pbnRtZW50IERhdGUgJiBUaW1lOiBfZndlX3dlZnd3d2ZfX19fd2Vmd2ZkX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KICAgICAgICA8L2Rpdj4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcGRmLT5kb3dubG9hZCgnbXJpUmVxdWVzdEZvcm0ucGRmJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICBNUkkgQXBwb2ludG1lbnQ6CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAnUERGJyA9PiBCYXJyeXZkaFxTbmFwcHlcRmFjYWRlc1xTbmFwcHlQZGY6OmNsYXNzLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PHVsIGNsYXNzPSJwbC00Ij4KICAgICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPlBhdGllbnQncyBuYW1lOjwvc3Bhbj4gQmVub2l0IEhlbmRyaWNreCA8YnIgLz4KICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+RGF0ZSBvZiBCaXJ0aDo8L3NwYW4+IDA1LzA3LzE5NzkKICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+UGhvbmU6PC9zcGFuPiArMzI0NzUgMTIzMTIzCiAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgIDwvdWw+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnU25hcHB5SW1hZ2UnID0+IEJhcnJ5dmRoXFNuYXBweVxGYWNhZGVzXFNuYXBweUltYWdlOjpjbGFzcywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1zbmFwcHkiOiAiXjAuNC43IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8ZGl2IGNsYXNzPSJncmlkLWNvbHMtMiI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
