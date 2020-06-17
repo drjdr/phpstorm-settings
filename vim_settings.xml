@@ -33,11 +33,6 @@
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/tests/Unit/Helpers/CarbonTest.php" timestamp="1592405203931" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/tests/Feature/Api/Client/ClientUpdateTest.php" timestamp="1592405807507" />
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/app/Providers/SparkServiceProvider.php" timestamp="1592327192114">
-        <mark key="[" line="88" column="26" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1592327527453">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -60,21 +55,26 @@
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Providers/SparkServiceProvider.php" timestamp="1592327384705" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/tests/Unit/Models/ClientTest.php" timestamp="1592405697998" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/config/app.php" timestamp="1592407235571">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/profile/update-contact-information.blade.php" timestamp="1592328034884">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env" timestamp="1592406131474">
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env" timestamp="1592407691404">
         <mark key="[" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/nav/teamsselector.blade.php" timestamp="1592338212446" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/header.blade.php" timestamp="1592339585039">
         <mark key="[" line="26" column="195" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/config/filesystems.php" timestamp="1592406551088" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/config/filesystems.php" timestamp="1592406996121" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/profile/update-profile-photo.blade.php" timestamp="1592328161059" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/config/database.php" timestamp="1592406079664">
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/config/database.php" timestamp="1592407358243">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
