@@ -51,11 +51,6 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/assets/js/mixins/stripe.js" timestamp="1592497876148">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/profile.blade.php" timestamp="1592492438703">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="24" column="14" />
@@ -70,7 +65,9 @@
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/invoices/emails/invoice.blade.php" timestamp="1592493715574">
         <mark key="[" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1592493613517" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1592498619454">
+        <mark key="[" line="31" column="72" />
+      </file>
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings.blade.php" timestamp="1592492631819" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/payment-method/update-payment-method-stripe.blade.php" timestamp="1592496478451" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/membership.blade.php" timestamp="1592492493098">
@@ -79,8 +76,8 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-vat-id.blade.php" timestamp="1592493908370">
-        <mark key="[" line="25" column="55" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-vat-id.blade.php" timestamp="1592498609549">
+        <mark key="[" line="23" column="72" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
