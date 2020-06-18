@@ -35,8 +35,14 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592502243236" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1592498619454">
         <mark key="[" line="31" column="72" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592502461176">
+        <mark key="[" line="77" column="73" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Teams/TeamSettingsController.php" timestamp="1592499576198">
         <mark key="[" line="9" column="0" />
@@ -48,13 +54,7 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/membership.blade.php" timestamp="1592492493098">
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-vat-id.blade.php" timestamp="1592499897881">
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-vat-id.blade.php" timestamp="1592501256173">
         <mark key="[" line="23" column="72" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -71,10 +71,10 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1592492470168">
-        <mark key="[" line="16" column="48" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscription-notice.blade.php" timestamp="1592500896906">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/invoices/invoice-list.blade.php" timestamp="1592494132757">
         <mark key="[" line="3" column="8" />
@@ -82,15 +82,10 @@
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/payment-method/update-payment-method-address.blade.php" timestamp="1592495636453" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/team-members.blade.php" timestamp="1592493121256">
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/team-members.blade.php" timestamp="1592502207440">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/invoices.blade.php" timestamp="1592492513603">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="62" />
-        <mark key="." line="15" column="62" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/invoices/emails/invoice.blade.php" timestamp="1592493715574">
         <mark key="[" line="1" column="12" />
@@ -111,8 +106,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>If you require a VAT ID for invoicing, please add it here before taking a subscription.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>If you require a VAT ID for invoicing, please add it here before taking a subscription.</text>
@@ -124,31 +119,31 @@
         <text encoding="base64">Um91dGU6OmdldCgne3RlYW19L3NldHRpbmdzJywgW1RlYW1TZXR0aW5nc0NvbnRyb2xsZXI6OmNsYXNzLCAncHJvZmlsZSddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgne3RlYW19L3NldHRpbmdzL3RlYW0tc2V0dGluZ3MnLCBbVGVhbVNldHRpbmdzQ29udHJvbGxlcjo6Y2xhc3MsICd0ZWFtc2V0dGluZ3MnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHRkIGNsYXNzPSJweC02IHB5LTQgd2hpdGVzcGFjZS1uby13cmFwIGJvcmRlci1iIGJvcmRlci1ncmF5LTIwMCB0ZXh0LXNtIGxlYWRpbmctNSB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPd25lcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0iLW1sLTEgbXItMiBoLTQgdy00IHRleHQtZ3JheS01MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNiAybDItMmg0bDIgMmg0djJIMlYyaDR6TTMgNmgxNGwtMSAxNEg0TDMgNnptNSAydjEwaDFWOEg4em0zIDB2MTBoMVY4aC0xeiIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgcHVibGljIGZ1bmN0aW9uIHRlYW1zZXR0aW5ncyhUZWFtICR0ZWFtKQogICAgewovLyAgICAgICAgJHRoaXMtPmF1dGhvcml6ZSgnZWRpdCcsICR0ZWFtKTsKCiAgICAgICAgcmV0dXJuIHZpZXcoJ3RlYW0uc2V0dGluZ3MudGVhbS1zZXR0aW5ncycsIGNvbXBhY3QoJ3RlYW0nKSk7CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGRkCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0idGV4dC1zbSBsZWFkaW5nLTUgdGV4dC1ncmF5LTUwMCI+SHVtYW4gUmVzb3VyY2VzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICcxNnB4JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogNTAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogJ1JvYm90bywgT3BlbiBTYW5zLCBTZWdvZSBVSSwgc2Fucy1zZXJpZicsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0idGV4dC1zbSBsZWFkaW5nLTUgdGV4dC1ncmF5LTUwMCI+YmVybmFyZGxhbmVAZXhhbXBsZS5jb20KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpZGVJY29uOiB0cnVlLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
