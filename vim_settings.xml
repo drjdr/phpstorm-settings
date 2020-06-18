@@ -26,6 +26,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/mailed-invitations.blade.php" timestamp="1592475473526" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/invoices.blade.php" timestamp="1592481014478" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1592478315347">
         <mark key="[" line="14" column="70" />
         <mark key="]" line="45" column="0" />
@@ -51,6 +52,11 @@
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/invoices.blade.php" timestamp="1592480892125">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1592477291564" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/team-members.blade.php" timestamp="1592474747819">
@@ -78,8 +84,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/payment-method.blade.php" timestamp="1592479431508">
-        <mark key="[" line="14" column="53" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/payment-method.blade.php" timestamp="1592480978081">
+        <mark key="[" line="14" column="82" />
+        <mark key="]" line="14" column="82" />
+        <mark key="." line="14" column="82" />
       </file>
     </filemarks>
     <jumps>
@@ -94,11 +102,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>currentTe</text>
       </register>
       <register name="-" type="4">
-        <text>Update you VAT ID</text>
+        <text>currentTe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
