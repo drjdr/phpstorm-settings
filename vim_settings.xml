@@ -25,6 +25,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/profile.blade.php" timestamp="1592599566898" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/invoices/update-extra-billing-information.blade.php" timestamp="1592598321925">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/spark-components/settings/subscription/cancel-subscription.js" timestamp="1592592273766">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="7" column="12" />
@@ -35,7 +41,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/migrations/2020_04_04_200001_create_clients_table.php" timestamp="1592561526722" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1592598929398" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/resume-subscription.blade.php" timestamp="1592595077856">
         <mark key="[" line="127" column="168" />
         <mark key="]" line="96" column="0" />
@@ -51,15 +57,10 @@
         <mark key="]" line="127" column="8" />
         <mark key="." line="127" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/assets/js/settings/subscription/cancel-subscription.js" timestamp="1592591687045">
-        <mark key="[" line="31" column="20" />
-      </file>
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/subscription/cancel-subscription.blade.php" timestamp="1592592209482" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/profile.blade.php" timestamp="1592599125219" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592594371150">
         <mark key="[" line="50" column="81" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1592591105907">
-        <mark key="[" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592594386519">
         <mark key="[" line="20" column="0" />
@@ -69,28 +70,19 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.blade_3.php" timestamp="1592596099678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/migrations/2020_04_04_191759_create_spark_subscriptions_table.php" timestamp="1592561541475">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/redeem-coupon.blade.php" timestamp="1592591108877">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/subscription/resume-subscription.blade.php" timestamp="1592596610628" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/subscription/update-subscription.blade.php" timestamp="1592594033549" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-vat-id.blade.php" timestamp="1592590677244">
-        <mark key="[" line="23" column="72" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/membership.blade.php" timestamp="1592599031406" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/modals/plan-details.blade.php" timestamp="1592597219716" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/cancel-subscription.blade.php" timestamp="1592592348383">
         <mark key="[" line="83" column="8" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/payment-method.blade.php" timestamp="1592598931823">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -105,8 +97,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>transparent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>transparent</text>
@@ -117,32 +109,32 @@
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6OmdldCgne3RlYW19L3NldHRpbmdzJywgW1RlYW1TZXR0aW5nc0NvbnRyb2xsZXI6OmNsYXNzLCAncHJvZmlsZSddKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0ibXQtNiByb3VuZGVkLW1kIHNoYWRvdyI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHB4LTUgcHktMyBib3JkZXIgYm9yZGVyLXRyYW5zcGFyZW50IHRleHQtYmFzZSBsZWFkaW5nLTYgZm9udC1tZWRpdW0gcm91bmRlZC1tZCB0ZXh0LXdoaXRlIGJnLWdyYXktOTAwIGhvdmVyOmJnLWdyYXktODAwIGZvY3VzOm91dGxpbmUtbm9uZSBmb2N1czpzaGFkb3ctb3V0bGluZSB0cmFuc2l0aW9uIGR1cmF0aW9uLTE1MCBlYXNlLWluLW91dCIgYXJpYS1kZXNjcmliZWRieT0idGllci1zdGFuZGFyZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIEdldCBzdGFydGVkCiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC9kaXY+</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGxpIGNsYXNzPSJtdC00IGZsZXggaXRlbXMtc3RhcnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4LXNocmluay0wIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3M9ImgtNiB3LTYgdGV4dC1ncmVlbi01MDAiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNSAxM2w0IDRMMTkgNyIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibWwtMyB0ZXh0LWJhc2UgbGVhZGluZy02IHRleHQtZ3JheS03MDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgU2FwaWVudGUgbGliZXJvIGRvbG9yaWJ1cyBtb2RpIG5vc3RydW0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJtdC00IGZsZXggaXRlbXMtc3RhcnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4LXNocmluay0wIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3M9ImgtNiB3LTYgdGV4dC1ncmVlbi01MDAiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNSAxM2w0IDRMMTkgNyIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibWwtMyB0ZXh0LWJhc2UgbGVhZGluZy02IHRleHQtZ3JheS03MDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmVsIGlwc2EgZXNzZSByZXB1ZGlhbmRhZSBleGNlcHR1cmkKICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJtdC00IGZsZXggaXRlbXMtc3RhcnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4LXNocmluay0wIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3M9ImgtNiB3LTYgdGV4dC1ncmVlbi01MDAiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNSAxM2w0IDRMMTkgNyIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibWwtMyB0ZXh0LWJhc2UgbGVhZGluZy02IHRleHQtZ3JheS03MDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgSXRhcXVlIGN1cGlkaXRhdGUgYWRpcGlzY2kgcXVpYnVzZGFtCiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2xpPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im10LTQgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdGV4dC01eGwgbGVhZGluZy1ub25lIGZvbnQtZXh0cmFib2xkIj4K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvIEB7eyBfXyhkZXRhaWxpbmdQbGFuLmludGVydmFsKSB8IGNhcGl0YWxpemUgfX0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtc3VjY2VzcyIgdi1pZj0iY3VycmVudERpc2NvdW50Ij4KICAgICAgICAgICAgICAgIDxzcGFuIHYtaWY9ImN1cnJlbnREaXNjb3VudC5kdXJhdGlvbj09J3JlcGVhdGluZycgJiYgY3VycmVudERpc2NvdW50LmR1cmF0aW9uX2luX21vbnRocyA+IDEiPkB7eyBfXygiWW91IGN1cnJlbnRseSByZWNlaXZlIGEgZGlzY291bnQgb2YgOmRpc2NvdW50QW1vdW50IGZvciBhbGwgaW52b2ljZXMgZHVyaW5nIHRoZSBuZXh0IDptb250aHMgbW9udGhzLiIsIHtkaXNjb3VudEFtb3VudDogZm9ybWF0dGVkRGlzY291bnQoY3VycmVudERpc2NvdW50KSwgbW9udGhzOiBjdXJyZW50RGlzY291bnQuZHVyYXRpb25faW5fbW9udGhzfSkgfX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiB2LWlmPSJjdXJyZW50RGlzY291bnQuZHVyYXRpb249PSdyZXBlYXRpbmcnICYmIGN1cnJlbnREaXNjb3VudC5kdXJhdGlvbl9pbl9tb250aHMgPT0gMSI+QHt7IF9fKCJZb3UgY3VycmVudGx5IHJlY2VpdmUgYSBkaXNjb3VudCBvZiA6ZGlzY291bnRBbW91bnQgZm9yIGFsbCBpbnZvaWNlcyBkdXJpbmcgdGhlIG5leHQgbW9udGguIiwge2Rpc2NvdW50QW1vdW50OiBmb3JtYXR0ZWREaXNjb3VudChjdXJyZW50RGlzY291bnQpfSkgfX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiB2LWlmPSJjdXJyZW50RGlzY291bnQuZHVyYXRpb249PSdmb3JldmVyJyI+QHt7IF9fKCJZb3UgY3VycmVudGx5IHJlY2VpdmUgYSBkaXNjb3VudCBvZiA6ZGlzY291bnRBbW91bnQgZm9yZXZlci4iLCB7ZGlzY291bnRBbW91bnQ6IGZvcm1hdHRlZERpc2NvdW50KGN1cnJlbnREaXNjb3VudCl9KSB9fTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIHYtaWY9ImN1cnJlbnREaXNjb3VudC5kdXJhdGlvbj09J29uY2UnIj5Ae3sgX18oIllvdSBjdXJyZW50bHkgcmVjZWl2ZSBhIGRpc2NvdW50IG9mIDpkaXNjb3VudEFtb3VudCBmb3IgYSBzaW5nbGUgaW52b2ljZS4iLCB7ZGlzY291bnRBbW91bnQ6IGZvcm1hdHRlZERpc2NvdW50KGN1cnJlbnREaXNjb3VudCl9KSB9fTwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0ibWwtYXV0byBwbC0zIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iLW14LTEuNSAtbXktMS41Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImlubGluZS1mbGV4IHJvdW5kZWQtbWQgcC0xLjUgdGV4dC1ncmVlbi01MDAgaG92ZXI6YmctZ3JlZW4tMTAwIGZvY3VzOm91dGxpbmUtbm9uZSBmb2N1czpiZy1ncmVlbi0xMDAgdHJhbnNpdGlvbiBlYXNlLWluLW91dCBkdXJhdGlvbi0xNTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3M9ImgtNSB3LTUiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0iY3VycmVudENvbG9yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNC4yOTMgNC4yOTNhMSAxIDAgMDExLjQxNCAwTDEwIDguNTg2bDQuMjkzLTQuMjkzYTEgMSAwIDExMS40MTQgMS40MTRMMTEuNDE0IDEwbDQuMjkzIDQuMjkzYTEgMSAwIDAxLTEuNDE0IDEuNDE0TDEwIDExLjQxNGwtNC4yOTMgNC4yOTNhMSAxIDAgMDEtMS40MTQtMS40MTRMOC41ODYgMTAgNC4yOTMgNS43MDdhMSAxIDAgMDEwLTEuNDE0eiIgY2xpcC1ydWxlPSJldmVub2RkIi8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgQmFja2dyb3VuZCBvdmVybGF5LCBzaG93L2hpZGUgYmFzZWQgb24gbW9kYWwgc3RhdGUuCiAgCiAgICAgIEVudGVyaW5nOiAiZWFzZS1vdXQgZHVyYXRpb24tMzAwIgogICAgICAgIEZyb206ICJvcGFjaXR5LTAiCiAgICAgICAgVG86ICJvcGFjaXR5LTEwMCIKICAgICAgTGVhdmluZzogImVhc2UtaW4gZHVyYXRpb24tMjAwIgogICAgICAgIEZyb206ICJvcGFjaXR5LTEwMCIKICAgICAgICBUbzogIm9wYWNpdHktMCIKICAgIC0tPgogICAgPGRpdiBjbGFzcz0iZml4ZWQgaW5zZXQtMCB0cmFuc2l0aW9uLW9wYWNpdHkiPgogICAgICAgIDxkaXYgY2xhc3M9ImFic29sdXRlIGluc2V0LTAgYmctZ3JheS01MDAgb3BhY2l0eS03NSI+PC9kaXY+CiA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgPC9kaXY+CgogICAgPCEtLQogICAgICBNb2RhbCBwYW5lbCwgc2hvdy9oaWRlIGJhc2VkIG9uIG1vZGFsIHN0YXRlLgogIAogICAgICBFbnRlcmluZzogImVhc2Utb3V0IGR1cmF0aW9uLTMwMCIKICAgICAgICBGcm9tOiAib3BhY2l0eS0wIHRyYW5zbGF0ZS15LTQgc206dHJhbnNsYXRlLXktMCBzbTpzY2FsZS05NSIKICAgICAgICBUbzogIm9wYWNpdHktMTAwIHRyYW5zbGF0ZS15LTAgc206c2NhbGUtMTAwIgogICAgICBMZWF2aW5nOiAiZWFzZS1pbiBkdXJhdGlvbi0yMDAiCiAgICAgICAgRnJvbTogIm9wYWNpdHktMTAwIHRyYW5zbGF0ZS15LTAgc206c2NhbGUtMTAwIgogICAgICAgIFRvOiAib3BhY2l0eS0wIHRyYW5zbGF0ZS15LTQgc206dHJhbnNsYXRlLXktMCBzbTpzY2FsZS05NSIKICAgIC0tPg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtc3VjY2VzcyIgdi1pZj0iZm9ybS5zdWNjZXNzZnVsIj4KICAgICAgICAgICAgICAgICAgICAgICAge3tfXygnWW91ciBiaWxsaW5nIGluZm9ybWF0aW9uIGhhcyBiZWVuIHVwZGF0ZWQhJyl9fQogICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
