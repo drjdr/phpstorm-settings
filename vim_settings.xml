@@ -41,11 +41,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/api.php" timestamp="1592654688037">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="83" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/api.php" timestamp="1592662255672">
+        <mark key="[" line="84" column="86" />
+        <mark key="]" line="85" column="28" />
+        <mark key="." line="85" column="27" />
+        <mark key="^" line="85" column="28" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-address.blade.php" timestamp="1592660838617">
         <mark key="[" line="0" column="0" />
@@ -76,7 +76,6 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/assets/js/kiosk/users.js" timestamp="1592655321449" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/client/create.blade.php" timestamp="1592660496838" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Models/MriPrescription.php" timestamp="1592661395061">
         <mark key="[" line="37" column="58" />
@@ -105,6 +104,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/mri/upload/MriUploader.vue" timestamp="1592662156885">
+        <mark key="[" line="112" column="72" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Services/Api/Transformers/MriPrescriptionTransformer.php" timestamp="1592661112499">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="13" column="46" />
@@ -124,7 +128,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJy9yYWRpb2xvZ3kvbXJpcy97bXJpfS91cGxvYWQnLCBbTXJpRmlsZUNvbnRyb2xsZXI6OmNsYXNzLCAnc3RvcmUnXSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>type=&quot;submit&quot;</text>
@@ -136,31 +140,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3VwbG9hZF9jb2RlJyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJy9yYWRpb2xvZ3kvbXJpcy97bXJpfS91cGxvYWQnLCBbTXJpRmlsZUNvbnRyb2xsZXI6OmNsYXNzLCAnc3RvcmUnXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUZXN0RGlyKCkKLy8gICAgewovLyAgICAgICAgcmV0dXJuICJUZXN0S25va2tlLyI7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIGZ1bmN0aW9uIHNhdmVEaWNvbVppcChVcGxvYWRlZEZpbGUgJGZpbGUpIDogdm9pZAovLyAgICB7Ci8vICAgICAgICAkcGF0aCA9IFN0b3JhZ2U6OmRpc2soJ2NsaWVudF9kYXRhJyktPnB1dEZpbGUoJHRoaXMtPmdldERpY29tRGlyKCksICRmaWxlKTsKLy8gICAgICAgICR0aGlzLT5kaWNvbV96aXBfbG9jYXRpb24gPSAkcGF0aDsKLy8gICAgICAgICR0aGlzLT5zYXZlKCk7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBzYXZlVGVzdFVwbG9hZChVcGxvYWRlZEZpbGUgJGZpbGUpIDogdm9pZAovLyAgICB7Ci8vICAgICAgICAkcGF0aCA9IFN0b3JhZ2U6OmRpc2soJ2NsaWVudF9kYXRhJyktPnB1dEZpbGUoJHRoaXMtPmdldFRlc3REaXIoKSwgJGZpbGUpOwovLyAgICAgICAgJHRoaXMtPmRpY29tX3ppcF9sb2NhdGlvbiA9ICRwYXRoOwovLyAgICAgICAgJHRoaXMtPnNhdmUoKTsKLy8gICAgfQ==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VwbG9hZENvZGUnID0+ICRtcmktPnVwbG9hZF9jb2RlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRBdCcgPT4gJG1yaS0+Y3JlYXRlZF9hdCwK</text>
+        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUZXN0RGlyKCkKLy8gICAgewovLyAgICAgICAgcmV0dXJuICJUZXN0S25va2tlLyI7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIGZ1bmN0aW9uIHNhdmVEaWNvbVppcChVcGxvYWRlZEZpbGUgJGZpbGUpIDogdm9pZAovLyAgICB7Ci8vICAgICAgICAkcGF0aCA9IFN0b3JhZ2U6OmRpc2soJ2NsaWVudF9kYXRhJyktPnB1dEZpbGUoJHRoaXMtPmdldERpY29tRGlyKCksICRmaWxlKTsKLy8gICAgICAgICR0aGlzLT5kaWNvbV96aXBfbG9jYXRpb24gPSAkcGF0aDsKLy8gICAgICAgICR0aGlzLT5zYXZlKCk7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBzYXZlVGVzdFVwbG9hZChVcGxvYWRlZEZpbGUgJGZpbGUpIDogdm9pZAovLyAgICB7Ci8vICAgICAgICAkcGF0aCA9IFN0b3JhZ2U6OmRpc2soJ2NsaWVudF9kYXRhJyktPnB1dEZpbGUoJHRoaXMtPmdldFRlc3REaXIoKSwgJGZpbGUpOwovLyAgICAgICAgJHRoaXMtPmRpY29tX3ppcF9sb2NhdGlvbiA9ICRwYXRoOwovLyAgICAgICAgJHRoaXMtPnNhdmUoKTsKLy8gICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnID0+ICRtcmktPmRlZmF1bHQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VwbG9hZENvZGUnID0+ICRtcmktPnVwbG9hZF9jb2RlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRBdCcgPT4gJG1yaS0+Y3JlYXRlZF9hdCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrPSJsb2dpbldpdGhDb2RlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnID0+ICRtcmktPmRlZmF1bHQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
