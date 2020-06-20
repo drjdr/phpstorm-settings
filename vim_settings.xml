@@ -65,6 +65,9 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/tailwind.config.js" timestamp="1592685826984">
+        <mark key="[" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/MriPrescriptions/UploadMriFileController.php" timestamp="1592666172996">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="29" column="43" />
@@ -86,9 +89,6 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/MriPrescriptions/UploadFileController.php" timestamp="1592662943309">
-        <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Rules/MriPrescription.php" timestamp="1592677078396">
         <mark key="[" line="4" column="0" />
