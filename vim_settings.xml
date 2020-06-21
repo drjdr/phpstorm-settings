@@ -25,13 +25,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/web.php" timestamp="1592733354206">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/web.php" timestamp="1592765079052">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/layouts/radiology.blade.php" timestamp="1592683072621">
-        <mark key="[" line="60" column="41" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/layouts/radiology.blade.php" timestamp="1592765098840">
+        <mark key="[" line="59" column="57" />
         <mark key="]" line="104" column="65" />
         <mark key="." line="104" column="45" />
       </file>
@@ -49,9 +50,6 @@
         <mark key="[" line="85" column="46" />
         <mark key="]" line="85" column="113" />
         <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/MriPrescriptions/UploadWebMriFileController.php" timestamp="1592666676212">
-        <mark key="[" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Requests/Api/RadiologyLoginCodeRequest.php" timestamp="1592682095358">
         <mark key="[" line="14" column="12" />
@@ -83,6 +81,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/Docs/RadiologyDocsController.php" timestamp="1592764940488">
+        <mark key="[" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/RadiologyController.php" timestamp="1592764937567">
+        <mark key="[" line="2" column="55" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/assets/js/spark-bootstrap.js" timestamp="1592681835397" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/radiology.php" timestamp="1592686679956">
         <mark key="[" line="25" column="0" />
@@ -99,21 +103,15 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Rules/MriPrescription.php" timestamp="1592677078396">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="20" column="56" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/radiology_web.php" timestamp="1592732158039">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Requests/Api/MriPrescriptionUploadFileRequest.php" timestamp="1592677164889">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/show.blade.php" timestamp="1592765003507">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/mri/upload/MriUploader.vue" timestamp="1592687274205">
         <mark key="[" line="128" column="40" />
@@ -135,7 +133,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJy9yYWRpb2xvZ3kvbXJpLXByZXNjcmlwdGlvbnMvdXBsb2FkJywgW1VwbG9hZFdlYk1yaUZpbGVDb250cm9sbGVyOjpjbGFzcywgJ3N0b3JlJ10pOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXENvbnRyb2xsZXJzXFdlYlxSYWRpb2xvZ3lcUmFkaW9sb2d5Q29udHJvbGxlcjsK</text>
       </register>
       <register name="-" type="4">
         <text>radiology.augmented-anatomy.com</text>
@@ -144,43 +142,34 @@
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsIFtSYWRpb2xvZ3lDb250cm9sbGVyOjpjbGFzcywgJ3Nob3cnXSk7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXENvbnRyb2xsZXJzXFdlYlxSYWRpb2xvZ3lcUmFkaW9sb2d5Q29udHJvbGxlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJy9yYWRpb2xvZ3kvbXJpLXByZXNjcmlwdGlvbnMvdXBsb2FkJywgW1VwbG9hZFdlYk1yaUZpbGVDb250cm9sbGVyOjpjbGFzcywgJ3N0b3JlJ10pOwo=</text>
+        <text encoding="base64">ICAgIDxyYWRpb2xvZ3k+PC9yYWRpb2xvZ3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OndxCg==</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJy9yYWRpb2xvZ3kvbXJpLXByZXNjcmlwdGlvbnMvdXBsb2FkJywgW1VwbG9hZFdlYk1yaUZpbGVDb250cm9sbGVyOjpjbGFzcywgJ3N0b3JlJ10pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJy9yYWRpb2xvZ3kvbXJpLXByZXNjcmlwdGlvbnMvdXBsb2FkJywgW1VwbG9hZFdlYk1yaUZpbGVDb250cm9sbGVyOjpjbGFzcywgJ3N0b3JlJ10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OndxCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFwUmFkaW9sb2d5QXBpUm91dGVzKCRyb3V0ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>use App\Http\Controllers\WelcomeController;
-use App\Http\Controllers\HomeController;
-use App\Http\Controllers\PrivacyController;
-use App\Http\Controllers\Web\Teams\DashboardController;
-use App\Http\Controllers\Web\Teams\ClientController;
-use App\Http\Controllers\Web\Teams\TeamSettingsController;
-use App\Http\Controllers\Web\Users\UserSettingsController;
-use App\Http\Controllers\Web\MriRequestFormController;
-use App\Http\Controllers\Web\Radiology\RadiologyController;
-use App\Http\Controllers\Web\Radiology\MriPrescriptions\UploadWebMriFileController;</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFwUmFkaW9sb2d5QXBpUm91dGVzKCRyb3V0ZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsIFtSYWRpb2xvZ3lDb250cm9sbGVyOjpjbGFzcywgJ3Nob3cnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
