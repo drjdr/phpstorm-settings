@@ -31,6 +31,9 @@
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe.blade.php" timestamp="1592840827463">
         <mark key="[" line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-payment-method-stripe.blade.php" timestamp="1592850512941">
+        <mark key="[" line="87" column="122" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/web.php" timestamp="1592776250730">
         <mark key="[" line="55" column="37" />
         <mark key="]" line="54" column="87" />
@@ -60,8 +63,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592842707898">
-        <mark key="[" line="77" column="43" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592850422806">
+        <mark key="[" line="94" column="78" />
+        <mark key="]" line="94" column="38" />
+        <mark key="^" line="94" column="75" />
+        <mark key="." line="94" column="38" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env.example" timestamp="1592689379447">
         <mark key="[" line="7" column="40" />
@@ -112,12 +118,6 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/mri/upload/MriUploader.vue" timestamp="1592687274205">
-        <mark key="[" line="128" column="40" />
-        <mark key="]" line="146" column="12" />
-        <mark key="." line="146" column="12" />
-        <mark key="^" line="120" column="19" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="24" filename="$USER_HOME$/Code/radiology.augmented-anatomy.com/index.html" />
@@ -131,11 +131,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@{{ __(plan.interval) | capitalize }} tss</text>
       </register>
       <register name="-" type="4">
-        <text>Information for the Radiology department</text>
+        <text>@{{ __(plan.interval) | capitalize }} tss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
