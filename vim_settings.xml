@@ -60,18 +60,16 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592840803693">
-        <mark key="[" line="2" column="29" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe-common.blade.php" timestamp="1592842707898">
+        <mark key="[" line="77" column="43" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/.env.example" timestamp="1592689379447">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/login/patientCode/LoginForm.vue" timestamp="1592687262297">
-        <mark key="[" line="101" column="38" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Providers/SparkServiceProvider.php" timestamp="1592842392179">
+        <mark key="[" line="75" column="76" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/contact.blade.php" timestamp="1592776544129">
         <mark key="[" line="58" column="32" />
