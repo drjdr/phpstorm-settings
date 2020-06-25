@@ -42,7 +42,7 @@
         <mark key="." line="104" column="45" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1593084194333" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/seeds/AAScenarioSeeder.php" timestamp="1593100808379">
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/seeds/AAScenarioSeeder.php" timestamp="1593103379184">
         <mark key="[" line="208" column="46" />
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
@@ -51,6 +51,11 @@
         <mark key="[" line="35" column="37" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1593103304667">
+        <mark key="[" line="63" column="49" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/privacy.blade.php" timestamp="1593086068071">
         <mark key="[" line="15" column="42" />
@@ -81,11 +86,6 @@
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/login/patientCode/LoginForm.vue" timestamp="1593101632570">
         <mark key="[" line="101" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/contact.blade.php" timestamp="1592776544129">
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/terms.md" timestamp="1593096003198">
         <mark key="[" line="395" column="5" />
@@ -119,11 +119,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>475 123123</text>
       </register>
       <register name="-" type="4">
-        <text>ASES OF FORCE MAJEURE</text>
+        <text>475 123123</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
