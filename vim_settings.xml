@@ -51,8 +51,8 @@
         <mark key="." line="104" column="45" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1593084194333" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/terms.blade.php" timestamp="1593086000781">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/terms.blade.php" timestamp="1593090829459">
+        <mark key="[" line="35" column="37" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -106,10 +106,10 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/sass/app.scss" timestamp="1593086544805">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/sass/app.scss" timestamp="1593090820989">
+        <mark key="[" line="30" column="48" />
+        <mark key="]" line="30" column="48" />
+        <mark key="." line="30" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -124,11 +124,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lighter</text>
       </register>
       <register name="-" type="4">
-        <text>border-grey-light</text>
+        <text>lighter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
