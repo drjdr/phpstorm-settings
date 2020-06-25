@@ -25,16 +25,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/subscription/subscribe.blade.php" timestamp="1592840827463">
-        <mark key="[" line="7" column="33" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/Docs/RadiologyDocsController.php" timestamp="1593106875755">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="36" column="75" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="36" column="75" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-payment-method-stripe.blade.php" timestamp="1592850512941">
         <mark key="[" line="87" column="122" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/artery3d.blade.php" timestamp="1592777379589">
-        <mark key="[" line="74" column="143" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/layouts/radiology.blade.php" timestamp="1593084401375">
         <mark key="[" line="59" column="57" />
@@ -52,8 +50,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1593103304667">
-        <mark key="[" line="63" column="49" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1593105494863">
+        <mark key="[" line="179" column="94" />
         <mark key="]" line="63" column="50" />
         <mark key="." line="63" column="50" />
       </file>
@@ -86,6 +84,12 @@
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/login/patientCode/LoginForm.vue" timestamp="1593101632570">
         <mark key="[" line="101" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/protocols.blade.php" timestamp="1593106048493">
+        <mark key="[" line="92" column="78" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="71" column="55" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/terms.md" timestamp="1593096003198">
         <mark key="[" line="395" column="5" />
@@ -120,16 +124,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>475 123123</text>
+        <text>storage</text>
       </register>
       <register name="-" type="4">
-        <text>475 123123</text>
+        <text>storage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICYgaDIgewogICAgICAgIEBhcHBseSBsZWFkaW5nLXRpZ2h0IHRleHQteGwgZm9udC1ib2xkIHRleHQtYmxhY2sgbWItMiBtdC0xMDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZigkcHJvdG9jb2wgPSAiVE9TSElCQV8xLjVUIikgcmV0dXJuIFN0b3JhZ2U6OmRvd25sb2FkKCdyYWRpb2xvZ3kvcHJvdG9jb2xzL1NpZW1lbnNfMS41VC5wZGYnKTs7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
