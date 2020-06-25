@@ -51,6 +51,11 @@
         <mark key="." line="104" column="45" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1593084194333" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/seeds/AAScenarioSeeder.php" timestamp="1593100808379">
+        <mark key="[" line="208" column="46" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/terms.blade.php" timestamp="1593090829459">
         <mark key="[" line="35" column="37" />
         <mark key="]" line="3" column="0" />
@@ -84,12 +89,6 @@
         <mark key="[" line="58" column="32" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/protocols.blade.php" timestamp="1592773562871">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="71" column="55" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/terms.md" timestamp="1593096003198">
         <mark key="[" line="395" column="5" />
@@ -125,8 +124,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ASES OF FORCE MAJEURE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ASES OF FORCE MAJEURE</text>
@@ -144,7 +143,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwaG9uZScgPT4gJ+KArTTigKwnLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
