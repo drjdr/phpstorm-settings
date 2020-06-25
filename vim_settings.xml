@@ -40,6 +40,9 @@
         <mark key="." line="104" column="45" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/team/settings/subscription.blade.php" timestamp="1593084194333" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Api/Radiology/MriPrescriptions/UploadMriFileController.php" timestamp="1593120132637">
+        <mark key="[" line="61" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/seeds/AAScenarioSeeder.php" timestamp="1593103379184">
         <mark key="[" line="208" column="46" />
         <mark key="]" line="171" column="0" />
@@ -78,9 +81,6 @@
         <mark key="]" line="94" column="38" />
         <mark key="^" line="94" column="75" />
         <mark key="." line="94" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Providers/SparkServiceProvider.php" timestamp="1592842392179">
-        <mark key="[" line="75" column="76" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/login/patientCode/LoginForm.vue" timestamp="1593101632570">
         <mark key="[" line="101" column="29" />
