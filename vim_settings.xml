@@ -91,10 +91,10 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/terms.md" timestamp="1593083639652">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/terms.md" timestamp="1593096003198">
+        <mark key="[" line="395" column="5" />
+        <mark key="]" line="395" column="5" />
+        <mark key="." line="395" column="5" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/nav/guest.blade.php" timestamp="1593084500363">
         <mark key="[" line="25" column="44" />
@@ -106,10 +106,11 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/sass/app.scss" timestamp="1593090820989">
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="48" />
-        <mark key="." line="30" column="48" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/sass/app.scss" timestamp="1593095280204">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -125,56 +126,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>lighter</text>
+        <text>ASES OF FORCE MAJEURE</text>
       </register>
       <register name="-" type="4">
-        <text>lighter</text>
+        <text>ASES OF FORCE MAJEURE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3JhZGlvbG9neS9kb2NzL3Byb3RvY29scycsIFtSYWRpb2xvZ3lEb2NzQ29udHJvbGxlcjo6Y2xhc3MsICdwcm90b2NvbHMnXSk7Cg==</text>
+        <text encoding="base64">ICAgICYgaDIgewogICAgICAgIEBhcHBseSBsZWFkaW5nLXRpZ2h0IHRleHQteGwgZm9udC1ib2xkIHRleHQtYmxhY2sgbWItMiBtdC0xMDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci5tYXJrZG93biB7CgogICAgYSB7CiAgICAgICAgQGFwcGx5IHRleHQtYmxhY2sgZm9udC1zZW1pYm9sZDsKICAgIH0KCiAgICBoMiB7CiAgICAgICAgQGFwcGx5IGxlYWRpbmctdGlnaHQgdGV4dC14bCBmb250LWJvbGQgdGV4dC1ibGFjayBtYi0yIG10LTEwOwogICAgfQogICAgaDMgewogICAgICAgIEBhcHBseSBsZWFkaW5nLXRpZ2h0IHRleHQtbGcgZm9udC1ib2xkIHRleHQtYmxhY2sgbXQtOCAtbWItMjsKICAgIH0KCn0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IEBhcHBseSB0ZXh0LWxnIHRleHQtZ3JleS1kYXJrZXN0IGxlYWRpbmctbm9ybWFsOwogICAgPiAqICsgKiwgIGxpICsgbGksIGxpID4gcCArIHAgewogICAgICAgIEBhcHBseSBtdC02OwogICAgfQogICAgc3Ryb25nIHsKICAgICAgICBAYXBwbHkgdGV4dC1ibGFjayBmb250LWJvbGQ7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>strong a {
-        @apply font-bold;
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>code {
-        @apply font-mono text-sm inline px-1;
-    }
-    pre code {
-        @apply block bg-black p-4 rounded;
-    }
-    blockquote {
-        @apply border-l-4  pl-4 italic;
-    }
-    ul, ol {
-        @apply pl-5;
-        @screen sm {
-            @apply pl-10;
-        }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAYXBwbHkgYm9yZGVyLWwtNCAgcGwtNCBpdGFsaWM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii90ZXJtcyIgY2xhc3M9Im10LTEgZ3JvdXAgZmxleCBpdGVtcy1jZW50ZXIgcHgtNCBtci1hdXRvIHB5LTIgdGV4dC1zbSBsZWFkaW5nLTUgZm9udC1tZWRpdW0gdGV4dC13aGl0ZS02MDAgcm91bmRlZC1tZCBiZy1ibHVlLTMwMCBob3Zlcjp0ZXh0LWdyYXktOTAwIGhvdmVyOmJnLXByaW1hcnktNDAwIGZvY3VzOm91dGxpbmUtbm9uZSBmb2N1czpiZy1wcmltYXJ5LTMwMCB0cmFuc2l0aW9uIGVhc2UtaW4tb3V0IGR1cmF0aW9uLTE1MCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9wcml2YWN5IiBjbGFzcz0ibXQtMSBncm91cCBmbGV4IGl0ZW1zLWNlbnRlciBweC0zIHB5LTIgdGV4dC1zbSBsZWFkaW5nLTUgZm9udC1tZWRpdW0gdGV4dC1ncmF5LTYwMCByb3VuZGVkLW1kIGhvdmVyOnRleHQtZ3JheS05MDAgaG92ZXI6YmctZ3JheS01MCBmb2N1czpvdXRsaW5lLW5vbmUgZm9jdXM6YmctZ3JheS0xMDAgdHJhbnNpdGlvbiBlYXNlLWluLW91dCBkdXJhdGlvbi0xNTAiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
