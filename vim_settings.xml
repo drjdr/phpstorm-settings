@@ -30,6 +30,9 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/profile.blade.php" timestamp="1593449703972">
+        <mark key="[" line="27" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/layouts/app.blade.php" timestamp="1593084201577">
         <mark key="[" line="43" column="15" />
       </file>
@@ -41,9 +44,6 @@
         <mark key="]" line="36" column="75" />
         <mark key="^" line="42" column="31" />
         <mark key="." line="36" column="75" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/payment-method/update-payment-method-stripe.blade.php" timestamp="1592850512941">
-        <mark key="[" line="87" column="122" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/login/patientCode/LoginForm.vue" timestamp="1593101632570">
         <mark key="[" line="101" column="29" />
