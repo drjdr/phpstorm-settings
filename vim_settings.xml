@@ -25,28 +25,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594228558499" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/web.php" timestamp="1594238026780">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="73" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/header.blade.php" timestamp="1594236502379">
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="12" />
         <mark key="^" line="33" column="16" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594230301189">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/security/update-password.blade.php" timestamp="1594232858558" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1594227138981" />
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/current-teams.blade.php" timestamp="1594231644014" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/security.blade.php" timestamp="1594232361258">
-        <mark key="[" line="10" column="8" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Services/Google2FA/Google2FAServiceProvider.php" timestamp="1594237986969" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Users/UserSettingsController.php" timestamp="1594237853909">
+        <mark key="[" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/api.blade.php" timestamp="1594232987420" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/api/create-token.blade.php" timestamp="1594235046696" />
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594227705734" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/migrations/2020_04_04_191747_create_users_table.php" timestamp="1594237253038">
+        <mark key="[" line="23" column="38" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/api.blade.php" timestamp="1594232933333" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Users/Security/TwoFactorAuthController.php" timestamp="1594237858572">
+        <mark key="[" line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594233424125">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -77,8 +80,14 @@
         <mark key="^" line="77" column="93" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Providers/SparkServiceProvider.php" timestamp="1594238348545">
+        <mark key="[" line="124" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/security/enable-two-factor-auth.blade.php" timestamp="1594237619050" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/profile/update-contact-information.blade.php" timestamp="1594235542865" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/security.blade.php" timestamp="1594232356504" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/spark-components/settings/security/enable-two-factor-auth.js" timestamp="1594237527771">
+        <mark key="[" line="61" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="24" filename="$USER_HOME$/Code/radiology.augmented-anatomy.com/index.html" />
@@ -92,8 +101,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGxpIGNsYXNzPSJtci0zIj4KICAgICAgICAgICAgICAgIEBpZigkdXNlcl9zZXR0aW5nc190YWIgPT0gJ2FwaScpCiAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImlubGluZS1ibG9jayBib3JkZXIgYm9yZGVyLWJsdWUtNTAwIHJvdW5kZWQgcHktMSBweC0zIGJnLWJsdWUtNTAwIHRleHQtd2hpdGUiIGhyZWY9Ii91c2VyL3NldHRpbmdzL2FwaSI+QVBJPC9hPgogICAgICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iaW5saW5lLWJsb2NrIGJvcmRlciBib3JkZXItZ3JheS0xMDAgcm91bmRlZCBob3Zlcjpib3JkZXItcHJpbWFyeS0xMDAgdGV4dC1ibHVlLTUwMCBob3ZlcjpiZy1wcmltYXJ5LTEwMCBweS0xIHB4LTMiIGhyZWY9Ii91c2VyL3NldHRpbmdzL2FwaSI+QVBJPC9hPgogICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgIDwvbGk+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnL3VzZXIvc2V0dGluZ3MvYXBpJywgW1VzZXJTZXR0aW5nc0NvbnRyb2xsZXI6OmNsYXNzLCAnYXBpJ10pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>class=&quot;form-control&quot;</text>
@@ -104,32 +113,32 @@
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6OmdldCgnL3VzZXIvc2V0dGluZ3MvdGVhbXMnLCBbVXNlclNldHRpbmdzQ29udHJvbGxlcjo6Y2xhc3MsICd0ZWFtcyddKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnL3VzZXIvc2V0dGluZ3MvYXBpJywgW1VzZXJTZXR0aW5nc0NvbnRyb2xsZXI6OmNsYXNzLCAnYXBpJ10pOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">PGxpIGNsYXNzPSJtci0zIj4KICAgICAgICAgICAgICAgIEBpZigkdXNlcl9zZXR0aW5nc190YWIgPT0gJ2FwaScpCiAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImlubGluZS1ibG9jayBib3JkZXIgYm9yZGVyLWJsdWUtNTAwIHJvdW5kZWQgcHktMSBweC0zIGJnLWJsdWUtNTAwIHRleHQtd2hpdGUiIGhyZWY9Ii91c2VyL3NldHRpbmdzL2FwaSI+QVBJPC9hPgogICAgICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iaW5saW5lLWJsb2NrIGJvcmRlciBib3JkZXItZ3JheS0xMDAgcm91bmRlZCBob3Zlcjpib3JkZXItcHJpbWFyeS0xMDAgdGV4dC1ibHVlLTUwMCBob3ZlcjpiZy1wcmltYXJ5LTEwMCBweS0xIHB4LTMiIGhyZWY9Ii91c2VyL3NldHRpbmdzL2FwaSI+QVBJPC9hPgogICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgIDwvbGk+</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIFNob3cgVG9rZW4gTW9kYWwgLS0+Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PHNwYW4gdi1pZj0iY29weUNvbW1hbmRTdXBwb3J0ZWQiPnt7X18oJ0NvcHkgVG8gQ2xpcGJvYXJkJyl9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHYtZWxzZT57e19fKCdTZWxlY3QgQWxsJyl9fTwvc3Bhbj4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtdC0xIHJlbGF0aXZlIHJvdW5kZWQtbWQgc2hhZG93LXNtIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtdC0xIHJlbGF0aXZlIHJvdW5kZWQtbWQgc2hhZG93LXNtIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGV4dGFyZWEgaWQ9ImFwaS10b2tlbiIgY2xhc3M9ImZvcm0tdGV4dGFyZWEgYmxvY2sgdy1mdWxsIHRyYW5zaXRpb24gZHVyYXRpb24tMTUwIGVhc2UtaW4tb3V0IHNtOnRleHQtc20gc206bGVhZGluZy01IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljaz0ic2VsZWN0VG9rZW4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93cz0iNSI+QHt7IHNob3dpbmdUb2tlbiB9fTwvdGV4dGFyZWE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGV4dGFyZWEgaWQ9ImFwaS10b2tlbiIgY2xhc3M9ImZvcm0tdGV4dGFyZWEgYmxvY2sgdy1mdWxsIHRyYW5zaXRpb24gZHVyYXRpb24tMTUwIGVhc2UtaW4tb3V0IHNtOnRleHQtc20gc206bGVhZGluZy01IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljaz0ic2VsZWN0VG9rZW4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93cz0iNSI+QHt7IHNob3dpbmdUb2tlbiB9fTwvdGV4dGFyZWE+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
