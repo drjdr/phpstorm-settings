@@ -25,98 +25,63 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/introduction.blade.php" timestamp="1593085034959">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/profile.blade.php" timestamp="1594225875294">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/profile.blade.php" timestamp="1593449703972">
-        <mark key="[" line="27" column="11" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/web.php" timestamp="1594225992413">
+        <mark key="[" line="33" column="71" />
+        <mark key="]" line="31" column="77" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/layouts/app.blade.php" timestamp="1593084201577">
-        <mark key="[" line="43" column="15" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594227755288">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="15" column="81" />
+        <mark key="." line="15" column="81" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/api.php" timestamp="1593101606177">
-        <mark key="[" line="84" column="24" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594228558499" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/api.blade.php" timestamp="1594226381203" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/views/settings/profile/update-contact-information.blade.php" timestamp="1594226943533" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/header.blade.php" timestamp="1594225929222">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="33" column="16" />
+        <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/composer.json" timestamp="1593879489653">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/team-members.blade.php" timestamp="1594228978036" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594228546066">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="32" column="62" />
+        <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Radiology/Docs/RadiologyDocsController.php" timestamp="1593106875755">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="36" column="75" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="36" column="75" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/teams.blade.php" timestamp="1594226354152">
+        <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/login/patientCode/LoginForm.vue" timestamp="1593101632570">
-        <mark key="[" line="101" column="29" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/security.blade.php" timestamp="1594226342482" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/current-teams.blade.php" timestamp="1594229227621">
+        <mark key="[" line="66" column="58" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/artery3d.blade.php" timestamp="1593440225522">
-        <mark key="[" line="54" column="112" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1594227138981" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams.blade.php" timestamp="1594226363693" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/security.blade.php" timestamp="1594226322080">
+        <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Api/Mris/MriUploadController.php" timestamp="1593879860470">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-        <mark key="." line="26" column="24" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Users/UserSettingsController.php" timestamp="1594226091486">
+        <mark key="[" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/layouts/radiology.blade.php" timestamp="1593084401375">
-        <mark key="[" line="59" column="57" />
-        <mark key="]" line="104" column="65" />
-        <mark key="." line="104" column="45" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/views/settings/teams/update-team-name.blade.php" timestamp="1594226959919" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594227705734" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/views/settings/teams/create-team.blade.php" timestamp="1594227054863">
+        <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Api/Radiology/MriPrescriptions/UploadMriFileController.php" timestamp="1593120132637">
-        <mark key="[" line="61" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/database/seeds/AAScenarioSeeder.php" timestamp="1593103379184">
-        <mark key="[" line="208" column="46" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/terms.blade.php" timestamp="1593090829459">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/mriRequestForm/form.blade.php" timestamp="1593440649570">
-        <mark key="[" line="126" column="58" />
-        <mark key="]" line="63" column="50" />
-        <mark key="." line="63" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/radiology/docs/protocols.blade.php" timestamp="1593106048493">
-        <mark key="[" line="92" column="78" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="71" column="55" />
-        <mark key="." line="125" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/privacy.blade.php" timestamp="1593086068071">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/terms.md" timestamp="1593441369302">
-        <mark key="[" line="144" column="61" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/nav/guest.blade.php" timestamp="1593097045686">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/sass/app.scss" timestamp="1593095280204">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="24" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/js/components/radiology/mri/upload/MriUploader.vue" timestamp="1593440154427">
-        <mark key="[" line="94" column="44" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/api.blade.php" timestamp="1594226373284">
+        <mark key="[" line="16" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -132,43 +97,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAia2xhZGlzbGF2L2xhcmF2ZWwtY2h1bmstdXBsb2FkIjogImRldi1tYXN0ZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbGV0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ciB1cGxvYWRzIHdpbGwgbm90IGJlIHZpc2libGUgdGhlIG5leHQgdGltZSB5b3UgdXNlIHRoaXMgcGF0aWVudCBjb2RlLiA=</text>
+        <text encoding="base64">di1pZj0iY2FuRGVsZXRlVGVhbU1lbWJlcihtZW1iZXIpIiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkcHJvdG9jb2wgPSAiVE9TSElCQV8xLjVUIikgcmV0dXJuIFN0b3JhZ2U6OmRvd25sb2FkKCdyYWRpb2xvZ3kvcHJvdG9jb2xzL1NpZW1lbnNfMS41VC5wZGYnKTs7Cg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL3VzZXIvc2V0dGluZ3MvdGVhbXMnLCBbVXNlclNldHRpbmdzQ29udHJvbGxlcjo6Y2xhc3MsICd0ZWFtcyddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAia2xhZGlzbGF2L2xhcmF2ZWwtY2h1bmstdXBsb2FkIjogImRldi1tYXN0ZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbGV0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAqKlBlcnNvbmFsIERhdGEqKiBtZWFucyBhbnkgZGF0YSB3aGljaCByZWxhdGVzIHRvIGFuIGluZGl2aWR1YWwgd2hvIGNhbiBiZSBpZGVudGlmaWVkIGZyb20gdGhhdCBkYXRhIG9yIGZyb20gdGhhdCBkYXRhIGFuZCBvdGhlciBpbmZvcm1hdGlvbiB3aGljaCBpcyBpbiB0aGUgcG9zc2Vzc2lvbiBvZiwgb3IgaXMgbGlrZWx5IHRvIGNvbWUgaW50byB0aGUgcG9zc2Vzc2lvbiBvZiwgQXVnbWVudGVkIEFuYXRvbXkgKG9yIGl0cyByZXByZXNlbnRhdGl2ZXMgb3Igc2VydmljZSBwcm92aWRlcnMpLiBJbiBhZGRpdGlvbiB0byBmYWN0dWFsIGluZm9ybWF0aW9uLCBpdCBpbmNsdWRlcyBhbnkgZXhwcmVzc2lvbiBvZiBvcGluaW9uIGFib3V0IGFuIGluZGl2aWR1YWwgYW5kIGFueSBpbmRpY2F0aW9uIG9mIHRoZSBpbnRlbnRpb25zIG9mIEF1Z21lbnRlZCBBbmF0b215IG9yIGFueSBvdGhlciBwZXJzb24gaW4gcmVzcGVjdCBvZiBhbiBpbmRpdmlkdWFsLiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtc20gbGVhZGluZy01IHRleHQtZ3JheS01MDAiPkB7eyBtZW1iZXIuZW1haWwgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFlvdSB3aWxsIG9ubHkgYmUgYWJsZSB0byBzZWUgdGhlIE1SSSBpbWFnZXMgdXBsb2FkZWQgZHVyaW5nIHRoaXMgc2Vzc2lvbi4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHNwYW4gdi1pZj0ibWVtYmVyLmlkID09PSB1c2VyLmlkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3tfXygnWW91Jyl9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhdmF0YXIgOnVzZXJuYW1lPSJtZW1iZXIuZmlyc3RfbmFtZSArICcgJyArIG1lbWJlci5sYXN0X25hbWUiIGNsYXNzPSJoLTEyIHctMTIiPjwvYXZhdGFyPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PHAgY2xhc3M9Im10LTMgdGV4dC1zbSBsZWFkaW5nLTUgbWQ6bXQtMCBtZDptbC02Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PHN2ZyBjbGFzcz0iLW1sLTEgbXItMiBoLTQgdy00IHRleHQtZ3JheS01MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNiAybDItMmg0bDIgMmg0djJIMlYyaDR6TTMgNmgxNGwtMSAxNEg0TDMgNnptNSAydjEwaDFWOEg4em0zIDB2MTBoMVY4aC0xeiIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PGEgaHJlZj0iIyIgY2xhc3M9IndoaXRlc3BhY2Utbm8td3JhcCBmb250LW1lZGl1bSB0ZXh0LWJsdWUtNzAwIGhvdmVyOnRleHQtYmx1ZS02MDAgdHJhbnNpdGlvbiBlYXNlLWluLW91dCBkdXJhdGlvbi0xNTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERldGFpbHMgJnJhcnI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+</text>
+        <text encoding="base64">PHN2ZyBjbGFzcz0iLW1sLTEgbXItMiBoLTQgdy00IHRleHQtZ3JheS01MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgIHZpZXdCb3g9IjAgMCAyMCAyMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLjMgMy43bDQgNEw0IDIwSDB2LTRMMTIuMyAzLjd6bTEuNC0xLjRMMTYgMGw0IDQtMi4zIDIuMy00LTR6Ii8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEEgbmV3IHNvZnR3YXJlIHVwZGF0ZSBpcyBhdmFpbGFibGUuIFNlZSB3aGF04oCZcyBuZXcgaW4gdmVyc2lvbiAyLjAuNC4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">PCEtLSBSb2xlIC0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIHYtaWY9InJvbGVzLmxlbmd0aCA+IDAiIGNsYXNzPSJweC02IHB5LTQgd2hpdGVzcGFjZS1uby13cmFwIGJvcmRlci1iIGJvcmRlci1ncmF5LTIwMCB0ZXh0LXNtIGxlYWRpbmctNSB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAe3sgdGVhbU1lbWJlclJvbGUobWVtYmVyKSB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
