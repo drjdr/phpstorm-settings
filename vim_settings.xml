@@ -25,64 +25,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/profile.blade.php" timestamp="1594225875294">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/routes/web.php" timestamp="1594225992413">
-        <mark key="[" line="33" column="71" />
-        <mark key="]" line="31" column="77" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594227755288">
-        <mark key="[" line="15" column="80" />
-        <mark key="]" line="15" column="81" />
-        <mark key="." line="15" column="81" />
-      </file>
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594228558499" />
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/api.blade.php" timestamp="1594226381203" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/views/settings/profile/update-contact-information.blade.php" timestamp="1594226943533" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/header.blade.php" timestamp="1594225929222">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="33" column="16" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594230301189">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/team-members.blade.php" timestamp="1594228978036" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/pending-invitations.blade.php" timestamp="1594228546066">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="32" column="62" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/teams.blade.php" timestamp="1594226354152">
-        <mark key="[" line="24" column="16" />
-      </file>
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/security.blade.php" timestamp="1594226342482" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/current-teams.blade.php" timestamp="1594229227621">
-        <mark key="[" line="66" column="58" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/security/update-password.blade.php" timestamp="1594232858558" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/update-team-name.blade.php" timestamp="1594227138981" />
-      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams.blade.php" timestamp="1594226363693" />
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/security.blade.php" timestamp="1594226322080">
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/current-teams.blade.php" timestamp="1594231644014" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/security.blade.php" timestamp="1594232361258">
         <mark key="[" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/app/Http/Controllers/Web/Users/UserSettingsController.php" timestamp="1594226091486">
-        <mark key="[" line="30" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/views/settings/teams/update-team-name.blade.php" timestamp="1594226959919" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/api.blade.php" timestamp="1594232987420" />
+      <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/api/create-token.blade.php" timestamp="1594234333308" />
       <file name="$USER_HOME$/Code/spark-vanilla-teams/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594227705734" />
       <file name="$USER_HOME$/Code/app.augmented-anatomy.com/spark/resources/views/settings/teams/create-team.blade.php" timestamp="1594227054863">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/api.blade.php" timestamp="1594226373284">
-        <mark key="[" line="16" column="16" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/user/settings/api.blade.php" timestamp="1594232933333" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/create-team.blade.php" timestamp="1594233424125">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/security/update-password.blade.php" timestamp="1594232871896">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="63" />
+        <mark key="^" line="34" column="64" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/team-members.blade.php" timestamp="1594228978036" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/api/create-token.blade.php" timestamp="1594234260702">
+        <mark key="[" line="150" column="216" />
+        <mark key="]" line="140" column="53" />
+        <mark key="." line="140" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/teams/current-teams.blade.php" timestamp="1594231592172">
+        <mark key="[" line="187" column="41" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/profile/update-contact-information.blade.php" timestamp="1594231976498" />
+      <file name="$USER_HOME$/Code/app.augmented-anatomy.com/resources/views/vendor/spark/settings/security.blade.php" timestamp="1594232356504" />
     </filemarks>
     <jumps>
       <jump line="22" column="24" filename="$USER_HOME$/Code/radiology.augmented-anatomy.com/index.html" />
@@ -96,11 +83,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbGV0ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>class=&quot;form-control&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">di1pZj0iY2FuRGVsZXRlVGVhbU1lbWJlcihtZW1iZXIpIiA=</text>
+        <text>class=&quot;form-control&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXJwbGVcPg==</text>
@@ -109,31 +96,31 @@
         <text encoding="base64">Um91dGU6OmdldCgnL3VzZXIvc2V0dGluZ3MvdGVhbXMnLCBbVXNlclNldHRpbmdzQ29udHJvbGxlcjo6Y2xhc3MsICd0ZWFtcyddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlbGV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtc20gbGVhZGluZy01IHRleHQtZ3JheS01MDAiPkB7eyBtZW1iZXIuZW1haWwgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHAgY2xhc3M9Im10LTMgdGV4dC1zbSBsZWFkaW5nLTUgbWQ6bXQtMCBtZDptbC02Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0id2hpdGVzcGFjZS1uby13cmFwIGZvbnQtbWVkaXVtIHRleHQtYmx1ZS03MDAgaG92ZXI6dGV4dC1ibHVlLTYwMCB0cmFuc2l0aW9uIGVhc2UtaW4tb3V0IGR1cmF0aW9uLTE1MCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERldGFpbHMgJnJhcnI7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PHNwYW4gdi1pZj0ibWVtYmVyLmlkID09PSB1c2VyLmlkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3tfXygnWW91Jyl9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhdmF0YXIgOnVzZXJuYW1lPSJtZW1iZXIuZmlyc3RfbmFtZSArICcgJyArIG1lbWJlci5sYXN0X25hbWUiIGNsYXNzPSJoLTEyIHctMTIiPjwvYXZhdGFyPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtdC01IG1kOm10LTAgbWQ6Y29sLXNwYW4tMiIgdi1lbHNlPgoKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3VuZGVkLW1kIGJnLXJlZC01MCBwLTQiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZsZXgtc2hyaW5rLTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3M9ImgtNSB3LTUgdGV4dC1yZWQtNDAwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9ImN1cnJlbnRDb2xvciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEwIDE4YTggOCAwIDEwMC0xNiA4IDggMCAwMDAgMTZ6TTguNzA3IDcuMjkzYTEgMSAwIDAwLTEuNDE0IDEuNDE0TDguNTg2IDEwbC0xLjI5MyAxLjI5M2ExIDEgMCAxMDEuNDE0IDEuNDE0TDEwIDExLjQxNGwxLjI5MyAxLjI5M2ExIDEgMCAwMDEuNDE0LTEuNDE0TDExLjQxNCAxMGwxLjI5My0xLjI5M2ExIDEgMCAwMC0xLjQxNC0xLjQxNEwxMCA4LjU4NiA4LjcwNyA3LjI5M3oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtbC0zIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3M9InRleHQtc20gbGVhZGluZy01IGZvbnQtbWVkaXVtIHRleHQtcmVkLTgwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHVybCgnL3NldHRpbmdzL3N1YnNjcmlwdGlvbicpIH19Ij57e19fKCdQbGVhc2UgdXBncmFkZSB5b3VyIHN1YnNjcmlwdGlvbicpfX08L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCgogICAgICAgICAgICAgICAgPC9kaXY+</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">QGlmIChTcGFyazo6dGVhbXNJZGVudGlmaWVkQnlQYXRoKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc3Bhbi02IHNtOmNvbC1zcGFuLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Im5hbWUiIGNsYXNzPSJibG9jayB0ZXh0LXNtIGZvbnQtbWVkaXVtIGxlYWRpbmctNSB0ZXh0LWdyYXktNzAwIj57e19fKCd0ZWFtcy50ZWFtX3NsdWcnKX19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9Im5hbWUiIHR5cGU9InRleHQiIG5hbWU9Im5hbWUiIHYtbW9kZWw9ImZvcm0uc2x1ZyIgY2xhc3M9Im10LTEgZm9ybS1pbnB1dCBibG9jayB3LWZ1bGwgcHktMiBweC0zIGJvcmRlciBib3JkZXItZ3JheS0zMDAgcm91bmRlZC1tZCBzaGFkb3ctc20gZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOnNoYWRvdy1vdXRsaW5lLWJsdWUgZm9jdXM6Ym9yZGVyLWJsdWUtMzAwIHRyYW5zaXRpb24gZHVyYXRpb24tMTUwIGVhc2UtaW4tb3V0IHNtOnRleHQtc20gc206bGVhZGluZy01IiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJtdC0yIHRleHQtc20gdGV4dC1ncmF5LTYwMCIgdi1zaG93PSIgISBmb3JtLmVycm9ycy5oYXMoJ3NsdWcnKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7X18oJ3RlYW1zLnNsdWdfaW5wdXRfZXhwbGFuYXRpb24nKX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJtdC0yIHRleHQtc20gdGV4dC1yZWQtNjAwIiBpZD0iZW1haWwtZXJyb3IiIHYtc2hvdz0iZm9ybS5lcnJvcnMuaGFzKCdzbHVnJykiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAe3sgZm9ybS5lcnJvcnMuZ2V0KCdzbHVnJykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlm</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">PHN2ZyBjbGFzcz0iLW1sLTEgbXItMiBoLTQgdy00IHRleHQtZ3JheS01MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNiAybDItMmg0bDIgMmg0djJIMlYyaDR6TTMgNmgxNGwtMSAxNEg0TDMgNnptNSAydjEwaDFWOEg4em0zIDB2MTBoMVY4aC0xeiIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PHN2ZyBjbGFzcz0iLW1sLTEgbXItMiBoLTQgdy00IHRleHQtZ3JheS01MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgIHZpZXdCb3g9IjAgMCAyMCAyMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyLjMgMy43bDQgNEw0IDIwSDB2LTRMMTIuMyAzLjd6bTEuNC0xLjRMMTYgMGw0IDQtMi4zIDIuMy00LTR6Ii8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=</text>
+        <text encoding="base64">PHNwYW4gdi1pZj0iaGFzVGVhbUxpbWl0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGVjaG8gX18oJ3RlYW1zLnlvdV9oYXZlX3hfdGVhbXNfcmVtYWluaW5nJywgWyd0ZWFtQ291bnQnID0+ICd7eyByZW1haW5pbmdUZWFtcyB9fSddKTsgPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCEtLSBSb2xlIC0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIHYtaWY9InJvbGVzLmxlbmd0aCA+IDAiIGNsYXNzPSJweC02IHB5LTQgd2hpdGVzcGFjZS1uby13cmFwIGJvcmRlci1iIGJvcmRlci1ncmF5LTIwMCB0ZXh0LXNtIGxlYWRpbmctNSB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAe3sgdGVhbU1lbWJlclJvbGUobWVtYmVyKSB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
