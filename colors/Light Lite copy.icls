@@ -3,7 +3,7 @@
     <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-09-06T21:24:39</property>
+    <property name="modified">2020-09-06T21:58:16</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -126,7 +126,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fcbc05" />
+        <option name="FOREGROUND" value="ecaf04" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -433,7 +433,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fcbc05" />
+        <option name="FOREGROUND" value="dea100" />
       </value>
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
