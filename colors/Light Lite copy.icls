@@ -3,7 +3,7 @@
     <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-05-31T01:27:15</property>
+    <property name="modified">2020-09-06T21:24:39</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <colors>
@@ -76,6 +76,11 @@
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="4285f4" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3a7d9" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
