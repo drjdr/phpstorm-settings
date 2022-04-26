@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="wp.augmented-anatomy.com" id="890863f2-2e60-40d0-bfd2-e7acd35a0c2a" port="22" customName="wp-augmented-anatomy-com@wp.augmented-anatomy.com" nameFormat="CUSTOM" username="wp-augmented-anatomy-com" useOpenSSHConfig="true">
+        <option name="customName" value="wp-augmented-anatomy-com@wp.augmented-anatomy.com" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
